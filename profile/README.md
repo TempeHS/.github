@@ -16,4 +16,4 @@
 
 🍿 Fun facts - No hampsters were hurt in the process of making these resources.
 
-🧙 Remember, may the farce be with you...
+🧙 Remember, anyone can make something, but they need someone to design it first. Don't be a maker; be a designer.
