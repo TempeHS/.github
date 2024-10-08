@@ -12,7 +12,7 @@
 - [VSCode Setup](https://github.com/TempeHS/TempeHS_VSCode_Setup) Instructions, configuration and profiles for VSCode & Codespaces
 - [Secure Flask PWA Template](https://github.com/TempeHS/Secure_Flask_PWA_Template)
 - [node.JS PWA Source](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Source) & [node.JS PWA Template](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template)
-- [Python Flask PWA Source](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) & [Python Flask PWA Template}(https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template)
+- [Python Flask PWA Source](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) & [Python Flask PWA Template](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template)
 
 🍿 Fun facts - No hampsters were damaged in the process of making these resources.
 
