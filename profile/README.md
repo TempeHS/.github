@@ -14,6 +14,6 @@
 - [node.JS PWA Source](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Source) & [node.JS PWA Template](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template)
 - [Python Flask PWA Source](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) & [Python Flask PWA Template](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template)
 
-🍿 Fun facts - No hampsters were damaged in the process of making these resources.
+🍿 Fun facts - No hampsters were hurt in the process of making these resources.
 
 🧙 Remember, may the farce be with you...
