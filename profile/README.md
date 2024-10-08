@@ -4,7 +4,7 @@
 
 🌈 Contribution guidelines — As a high school, we are closed to outside our student body, but we openly share all resources outward. Power to the sharers...
 
-👩‍💻 Useful resources - 
+👩‍💻 Useful TempeHS GitHub resources - 
 - [Design Toolkit](https://tempehs.github.io/designToolKit/)
 - [Arduino Mechatronics Resources](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp)
 - [AIDriver Challenges & Library](https://github.com/TempeHS/AIDriver_Challenges) a low cost differential drive robot
