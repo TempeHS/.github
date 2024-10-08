@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ A short introduction - Tempe High School is an inner-west comprehensive/partially high school. Our dedicated Technologies team support learning across all TAS disciplines.
+🌈 Contribution guidelines—As a high school, we are closed to outside our student body, but we openly share all resources outward.
+👩‍💻 Useful resources - 
+- [Design Toolkit](https://tempehs.github.io/designToolKit/)
+- [Arduino Mechatronics Resoruces](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp)
+- [AIDriver Challenges & Library](https://github.com/TempeHS/AIDriver_Challenges) a low cost differential drive robot
+- [Python Fundamentals](https://github.com/TempeHS/PythonFundamentals) - A fork of Harvard's CS50 Python course
+- [VSCode Setup](https://github.com/TempeHS/TempeHS_VSCode_Setup) Instructions, configuration and profiles for VSCode & Codespaces
+- [Secure Flask PWA Template](https://github.com/TempeHS/Secure_Flask_PWA_Template)
+- [node.JS PWA Source}(https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Source) & [node.JS PWA Template}(https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template)
+- [Python Flask PWA Source}(https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) & [Python Flask PWA Template}(https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template)
+🍿 Fun facts - No hampsters were damaged in the process of making these resources.
+🧙 Remember, may the farce be with you...
