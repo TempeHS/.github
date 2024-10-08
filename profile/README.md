@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ Tempe High School is an inner-west comprehensive/partially high school. Our dedicated Technologies team support learning across all TAS disciplines.
+🙋‍♀️ Tempe High School is a proud inner-west public high school. Our dedicated Technologies team support learning across all TAS disciplines.
 
 🌈 Contribution guidelines — As a high school, we are closed to outside our student body, but we openly share all resources outward. Power to the sharers...
 
