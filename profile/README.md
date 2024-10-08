@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ Tempe High School is a proud inner-west public high school. Our dedicated Technologies team support learning across all TAS disciplines. We specialise in design, game development, animation/videography, mechatronics, manufacturing (adaptive and subtractive), textiles, Fusion360 & all facets of engineering.
+🙋‍♀️ Tempe High School is a proud inner-west public high school. Our dedicated Technologies team support learning across all TAS disciplines. We specialise in design, game development, animation/videography, mechatronics, manufacturing (adaptive and subtractive), textiles, web development, Fusion360 & all facets of engineering.
 
 🌈 Contribution guidelines — As a high school, we are closed to outside our student body, but we openly share all resources outward. Power to the sharers...
 
