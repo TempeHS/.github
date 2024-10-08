@@ -6,7 +6,7 @@
 
 👩‍💻 Useful resources - 
 - [Design Toolkit](https://tempehs.github.io/designToolKit/)
-- [Arduino Mechatronics Resoruces](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp)
+- [Arduino Mechatronics Resources](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp)
 - [AIDriver Challenges & Library](https://github.com/TempeHS/AIDriver_Challenges) a low cost differential drive robot
 - [Python Fundamentals](https://github.com/TempeHS/PythonFundamentals) - A fork of Harvard's CS50 Python course
 - [VSCode Setup](https://github.com/TempeHS/TempeHS_VSCode_Setup) Instructions, configuration and profiles for VSCode & Codespaces
