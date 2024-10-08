@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - Tempe High School is an inner-west comprehensive/partially high school. Our dedicated Technologies team support learning across all TAS disciplines.
+🙋‍♀️ Tempe High School is an inner-west comprehensive/partially high school. Our dedicated Technologies team support learning across all TAS disciplines.
 🌈 Contribution guidelines—As a high school, we are closed to outside our student body, but we openly share all resources outward.
 👩‍💻 Useful resources - 
 - [Design Toolkit](https://tempehs.github.io/designToolKit/)
