@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🙋‍♀️ Tempe High School is an inner-west comprehensive/partially high school. Our dedicated Technologies team support learning across all TAS disciplines.
-🌈 Contribution guidelines—As a high school, we are closed to outside our student body, but we openly share all resources outward.
+
+🌈 Contribution guidelines — As a high school, we are closed to outside our student body, but we openly share all resources outward. Power to the sharers...
+
 👩‍💻 Useful resources - 
 - [Design Toolkit](https://tempehs.github.io/designToolKit/)
 - [Arduino Mechatronics Resoruces](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp)
@@ -11,5 +13,7 @@
 - [Secure Flask PWA Template](https://github.com/TempeHS/Secure_Flask_PWA_Template)
 - [node.JS PWA Source}(https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Source) & [node.JS PWA Template}(https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template)
 - [Python Flask PWA Source}(https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) & [Python Flask PWA Template}(https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template)
+
 🍿 Fun facts - No hampsters were damaged in the process of making these resources.
+
 🧙 Remember, may the farce be with you...
