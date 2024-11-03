@@ -14,6 +14,7 @@
 - [The Unsecure PWA](https://github.com/TempeHS/The_Unsecure_PWA) is an unsecured by-design PWA that students can analyse with a suite of tools and support to build their understanding of web-based secure software architecture.
 - [node.JS PWA Source](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Source) & [node.JS PWA Template](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template), a guided development task for students to build their first PWA to the W3C standard using node.JS and SQLite3 for the backend.
 - [Python Flask PWA Source](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) & [Python Flask PWA Template](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template), a guided development task for students to build their first PWA to the W3C standard using Python Flask and SQLite3 for the backend.
+- [Flask_PWA_API_Extension_Task_Source](https://github.com/TempeHS/Flask_PWA_API_Extension_Task_Source) & [Flask_PWA_API_Extension_Task_Template](https://github.com/TempeHS/Flask_PWA_API_Extension_Task_Template), a extension task of the FLASK PWA for students to build a safe API in flask then rapidly build a Bootstrap PWA.
 - [Arduino Mechatronics Resources](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp), a template repository for learning Arduino microcontroller basics using the Seeed Sensor Kit.
 
 🍿 Fun facts - No hampsters were hurt in the process of making these resources.
