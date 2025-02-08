@@ -18,8 +18,8 @@
 - [Flask PWA API Extension Task Source](https://github.com/TempeHS/Flask_PWA_API_Extension_Task_Source) & [Flask PWA API Extension_Task_Template](https://github.com/TempeHS/Flask_PWA_API_Extension_Task_Template), a extension task of the FLASK PWA for students to build a safe API in flask then rapidly build a Secure Bootstrap PWA.
 - [Arduino Mechatronics Resources](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp), a template repository for learning Arduino microcontroller basics using the Seeed Sensor Kit.
 - [Scikit-learn Linear Regression](https://github.com/TempeHS/NESA_Course_Specifications_Linear_Regression), A Jupyter Notebook collection designed to support students' understanding of the Linear Regression model defined in the NESA Software Engineering Course Specifications pg 28.
-- [Practical-Application-of-NESA-Software-Engineering-MLOps](https://github.com/TempeHS/Practical-Application-of-NESA-Software-Engineering-MLOps), About
-A Jupyter Notebook collection designed to develop a practical understanding of Machine Learning Operations (MLOps) defined in the NESA Software Engineering Course Specifications pg 27.
+- [Practical-Application-of-NESA-Software-Engineering-MLOps](https://github.com/TempeHS/Practical-Application-of-NESA-Software-Engineering-MLOps), A Jupyter Notebook collection designed to develop a practical understanding of Machine Learning Operations (MLOps) defined in the NESA Software Engineering Course Specifications pg 27.
+- [NESA Software Engineering - Machine Learning OOP Implementation Examples](https://github.com/TempeHS/Machine_Learning_OOP_Implementation_Examples), A Jupyter Notebook collection designed to support students implement Programming for automation in the NESA Software Engineering Syllabus specifically using an OOP to make predictions.
 
 🍿 Fun facts - No hampsters were hurt in the process of making these resources.
 
