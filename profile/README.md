@@ -7,7 +7,8 @@
 👩‍💻 Useful TempeHS GitHub resources - 
 - [Design Toolkit](https://tempehs.github.io/designToolKit/), a comprehensive list of design tools for all disciplines.
 - [Ardunio Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate), a collection of code snippets, libraries, 3D models and resources for Arduino mechatronics.
-- [Pi Pico Boilerplate](https://github.com/TempeHS/TempeHS_Pi_Pico_Boilerplate), a preconfigured VSCode repo for Pi Pico development with libraries and examples for mechatronics.
+- [Pi Pico & PiicoDev Boilerplate]([https://github.com/TempeHS/TempeHS_Pi_Pico_Boilerplate](https://github.com/TempeHS/TempeHS_Pi_Pico_PiicoDev_Boilerplate), a preconfigured VSCode repo for Pi Pico development with libraries and examples for mechatronics using PiicoDev sensors and servos.
+- [Pi Pico Introduction and OOP Mini Project Source](https://github.com/TempeHS/MicroPython_OOP_Pi_Pico_Mini_Project_Source) and [Pi Pico Introduction and OOP Mini Project Template](https://github.com/TempeHS/MicroPython_OOP_Pi_Pico_Mini_Project_Template), This repository is a series of introduction tasks to teach students the basics of Pi Pico and common mechatronic components that lead to a mini OOP based project to teach Object Oriented Paradigm (OOP) programming concepts.
 - [AIDriver Challenges & Library](https://github.com/TempeHS/AIDriver_Challenges), a low-cost differential drive robot library and challenge set for stage 4 students.
 - [Python Fundamentals](https://github.com/TempeHS/PythonFundamentals), a fork of Harvard's CS50 Python course for Codepsaces.
 - [VSCode Setup](https://github.com/TempeHS/TempeHS_VSCode_Setup), instructions, configuration and profiles for VSCode & Codespaces.
