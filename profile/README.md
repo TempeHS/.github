@@ -10,7 +10,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TempeHS&layout=compact)](https://github.com/benpaddlejones/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TempeHS&layout=compact)](https://github.com/TempeHS/github-readme-stats)
 
 👩‍💻 Useful TempeHS GitHub resources - 
 - [Design Toolkit](https://tempehs.github.io/designToolKit/), a comprehensive list of design tools for all disciplines.
