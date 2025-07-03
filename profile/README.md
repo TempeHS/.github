@@ -4,14 +4,6 @@
 
 🌈 Contribution guidelines — As a high school, we are closed to contributions outside our student body, but we openly share all resources outward. Power to the sharers...
 
-### :fire: My Stats :
-![benpaddlejones's GitHub stats](https://github-readme-stats.vercel.app/api?username=TempeHS&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TempeHS&theme=transparent)](https://git.io/streak-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TempeHS&layout=compact)](https://github.com/TempeHS/github-readme-stats)
-
 👩‍💻 Useful TempeHS GitHub resources - 
 - [Design Toolkit](https://tempehs.github.io/designToolKit/), a comprehensive list of design tools for all disciplines.
 - [Ardunio Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate), a collection of code snippets, libraries, 3D models and resources for Arduino mechatronics.
