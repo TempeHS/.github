@@ -21,7 +21,7 @@
 
 - [Arduino Mechatronics Resources](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp), a template repository for learning Arduino microcontroller basics using the Seeed Sensor Kit.
 
-## Software Engineering
+## Stage 6 - Software Engineering
 
 ### Programming fundamentals
 
