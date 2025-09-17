@@ -36,7 +36,7 @@
 
 ### Secure Architecture
 - [The Unsecure PWA](https://github.com/TempeHS/The_Unsecure_PWA) is an unsecured by-design PWA that students can analyse with a suite of tools and support to build their understanding of web-based secure software architecture.
-- [Practical Application Of Secure Architecture Sandbox Testing](https://github.com/TempeHS/Practical_Application_Of_Secure_Architecture_Sandbox_Testing)
+- [Secure Architecture Sandbox Testing Environment](https://github.com/TempeHS/Secure_Architecture_Sandbox_Testing_Environment), a Docker-based sandbox for testing Python Flask apps. Pre-loaded with SAST, DAST, and Penetration testing tools that produce education-specific reports. Preloaded with the [The Unsecure PWA](https://github.com/TempeHS/The_Unsecure_PWA) and exercises for students on secure architecture testing methodologies.
 - [Secure Flask PWA Template](https://github.com/TempeHS/Secure_Flask_PWA_Template), a Flask Template ready for developing a secure PWA in VSCode or Codespaces.
 
 ### Programming for the web
