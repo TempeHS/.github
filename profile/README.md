@@ -4,7 +4,9 @@
 
 🌈 Contribution guidelines — As a high school, we are closed to contributions outside our student body, but we openly share all resources outward. Power to the sharers...
 
-👩‍💻 Useful TempeHS GitHub resources - 
+---
+
+👩‍💻 Useful TempeHS GitHub resources
 
 ## General
 
