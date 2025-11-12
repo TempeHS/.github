@@ -43,6 +43,7 @@
 
 ### Programming for the web
 
+- [Learn SQL Basics](https://github.com/TempeHS/Learn_SQL_Basics), A hands-on SQL basics course using a Star Wars-themed database!
 - [node.JS PWA Source](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Source) & [node.JS PWA Template](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template), a guided development task for students to build their first PWA to the W3C standard using node.JS and SQLite3 for the backend.
 - [Python Flask PWA Source](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) & [Python Flask PWA Template](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template), a guided development task for students to build their first PWA to the W3C standard using Python Flask and SQLite3 for the backend.
 - [Flask PWA API Extension Task Source](https://github.com/TempeHS/Flask_PWA_API_Extension_Task_Source) & [Flask PWA API Extension_Task_Template](https://github.com/TempeHS/Flask_PWA_API_Extension_Task_Template), a extension task of the FLASK PWA for students to build a safe API in flask then rapidly build a Secure Bootstrap PWA.
