@@ -5,7 +5,7 @@
 🌈 Contribution guidelines — As a high school, we are closed to contributions outside our student body, but we openly share all resources outward. Power to the sharers...
 
 ---
-### [TempeHS HSC Software Engineering Hub](https://hsc-software-engineering.onrender.com)
+### Student Resource Hub: [TempeHS HSC Software Engineering Hub](https://hsc-software-engineering.onrender.com)
 ---
 
 👩‍💻 Useful TempeHS GitHub resources
