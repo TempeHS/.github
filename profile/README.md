@@ -29,6 +29,7 @@
 
 ### Programming fundamentals
 
+- [Learn Fundamentals of Algorithm Design](https://github.com/TempeHS/Learn-Fundamentals-of-Algorithm-Design), essential algorithm design skills using flowcharts and pseudocode following NESA HSC (New South Wales Higher School Certificate) standards.
 - [Python Fundamentals](https://github.com/TempeHS/PythonFundamentals), a fork of Harvard's CS50 Python course for Codepsaces.
 
 ### The object-oriented paradigm
