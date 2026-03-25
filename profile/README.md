@@ -61,4 +61,4 @@
 
 🍿 Fun facts - No hamsters were hurt in the process of making these resources.
 
-🧙 Remember, anyone can make something, but they need someone with the skill to design it first. Don't be a maker; be a designer.
+🧙 Creation without design is just chaos with ambition. Anyone can add to the noise, but designers shape the silence between it.
