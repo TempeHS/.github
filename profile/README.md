@@ -39,7 +39,7 @@
 - [Pi Pico Introduction and OOP Mini Project Source](https://github.com/TempeHS/MicroPython_OOP_Pi_Pico_Mini_Project_Source) and [Pi Pico Introduction and OOP Mini Project Template](https://github.com/TempeHS/MicroPython_OOP_Pi_Pico_Mini_Project_Template), This repository is a series of introduction tasks to teach students the basics of Pi Pico and common mechatronic components that lead to a mini OOP-based project to teach Object Oriented Paradigm (OOP) programming concepts.
 
 ### Programming mechatronics
-- [Pi Pico & PiicoDev Boilerplate]([https://github.com/TempeHS/TempeHS_Pi_Pico_Boilerplate](https://github.com/TempeHS/TempeHS_Pi_Pico_PiicoDev_Boilerplate), a preconfigured VSCode repo for Pi Pico development with libraries and examples for mechatronics using PiicoDev sensors and servos.
+- [Pi Pico & PiicoDev Boilerplate](https://github.com/TempeHS/TempeHS_Pi_Pico_PiicoDev_Boilerplate), a preconfigured VSCode repo for Pi Pico development with libraries and examples for mechatronics using PiicoDev sensors and servos.
 
 ### Secure Architecture
 - [The Unsecure PWA](https://github.com/TempeHS/The_Unsecure_PWA) is an unsecured by-design PWA that students can analyse with a suite of tools and support to build their understanding of web-based secure software architecture.
