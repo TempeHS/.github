@@ -25,7 +25,6 @@
 
 - [Arduino Mechatronics Resources](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp), a template repository for learning Arduino microcontroller basics using the Seeed Sensor Kit.
 - [Learn Kali Linux - Basics](https://github.com/TempeHS/Learn_Kali-Linux-Basics), template with Kali Linux and DVWA built in for learning ethical hacking and preparing for Cyber Security Capture the Flag (CTF) competitions.
-- 
 
 ## Stage 6 - Software Engineering
 
